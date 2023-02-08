@@ -1,2 +1,2 @@
 # Mixed reality
-This repository contains the resulting images of the proposed augmentation strategy
+Go to this link to see all the reults ==> https://github.com/ArguiIm/Results
